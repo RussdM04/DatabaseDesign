@@ -31,7 +31,3 @@ Fresh Fair Oasis is a grocery store concept with a focus on sustainability and c
 - Designing normalized relational databases  
 - Writing SQL DDL and DML scripts with constraints and relationships  
 - Understanding business rules in data modelling
-
----
-
-> **Note:** This project was completed as part of my Winter 2024 Database Design and SQL class.
